@@ -1,2 +1,2 @@
 # mycaptain-project
-This code is written by Sanat Garg.
+These are projects for mycaptain written by Sanat Garg.
